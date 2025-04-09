@@ -1,0 +1,13 @@
+1:"$Sreact.fragment"
+2:I[315,["177","static/chunks/app/layout-beddca66e0ef82a6.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[9665,[],"OutletBoundary"]
+8:I[9665,[],"ViewportBoundary"]
+a:I[9665,[],"MetadataBoundary"]
+c:I[6614,[],""]
+0:{"P":null,"b":"TLDrDg_9ZAG116u904Cfa","p":"/learn-nextJS-and-slides","c":["","about-us"],"i":false,"f":[[["",{"children":["about-us",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[null,["$","html",null,{"lang":"en","children":["$","body",null,{"children":[["$","$L2",null,{}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"children":["$","h1",null,{"children":"THIS IS NOT-FOUND PAGE!"}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["about-us",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","div",null,{"children":["$","h1",null,{"children":"THIS IS ABOUT US PAGE"}]}],"$undefined",null,["$","$L5",null,{"children":["$L6","$L7",null]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","OKc9ym-4X20UtL-7Dkvcn",{"children":[["$","$L8",null,{"children":"$L9"}],null]}],["$","$La",null,{"children":"$Lb"}]]}],false]],"m":"$undefined","G":["$c","$undefined"],"s":false,"S":true}
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+7:null
+b:[["$","title","0",{"children":"About-us | Next JS"}],["$","meta","1",{"name":"description","content":"the calender slides in the NextJS framework"}]]
