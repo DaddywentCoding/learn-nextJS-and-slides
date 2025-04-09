@@ -1,3 +1,6 @@
+SwiperのSlideを利用してカレンダ形式で表示させた。
+
+
 Deploy後Slidesが動作しない。
 原因はGitHub Pagesはjekyllというもので生成されるが、
 こいつが_nextのようなフォルダを無視する特徴がある。
